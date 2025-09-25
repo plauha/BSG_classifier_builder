@@ -1,0 +1,26 @@
+﻿DEPENDENCIES
+
+FOLLOWING RESOURCES MUST BE DOWNLOADED FROM EXTERNAL SOURCES:
+
+BIRDNET:
+FOLDER  BirdNET-Analyzer-main
+  git clone https://github.com/birdnet-team/BirdNET-Analyzer.git
+  cd BirdNET-Analyzer
+
+xenocanto.py
+  Code for obtaining the metadata of xeno-canto recordings for the target species
+  xeno-canto-py is available on PyPi and can be downloaded with the package manager pip to install xeno-canto-py:
+  pip install xeno-canto
+  or by 
+  git clone https://github.com/ntivirikin/xeno-canto-py
+  The only file required for operation is xenocanto.py.
+
+PYTHON PACKAGES REQUIRED FOR RUNNING THE CODES:
+tensorflow
+keras
+numpy
+pandas
+librosa
+soundfile
+colorednoise (https://pypi.org/project/colorednoise/)
+noisereduce (https://pypi.org/project/noisereduce/)
