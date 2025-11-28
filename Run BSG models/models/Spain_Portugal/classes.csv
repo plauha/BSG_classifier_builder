@@ -1,0 +1,96 @@
+species_code,common_name,scientific_name,class
+nobird,No bird,No bird,0
+human,Human,Human,1
+mallar3,Mallard,Anas platyrhynchos,2
+comqua1,Common Quail,Coturnix coturnix,3
+relpar1,Red-legged Partridge,Alectoris rufa,4
+redjun,Red Junglefowl,Gallus gallus,5
+grefla3,Greater Flamingo,Phoenicopterus roseus,6
+litgre1,Little Grebe,Tachybaptus ruficollis,7
+cowpig1,Common Wood-Pigeon,Columba palumbus,8
+eutdov,European Turtle-Dove,Streptopelia turtur,9
+eucdov,Eurasian Collared-Dove,Streptopelia decaocto,10
+comcuc,Common Cuckoo,Cuculus canorus,11
+rennig1,Red-necked Nightjar,Caprimulgus ruficollis,12
+eurnig1,Eurasian Nightjar,Caprimulgus europaeus,13
+comswi,Common Swift,Apus apus,14
+palswi3,Pallid Swift,Apus pallidus,15
+commoo3,Eurasian Moorhen,Gallinula chloropus,16
+bkwsti,Black-winged Stilt,Himantopus himantopus,17
+yelgul1,Yellow-legged Gull,Larus michahellis,18
+lbbgul,Lesser Black-backed Gull,Larus fuscus,19
+gubter1,Gull-billed Tern,Gelochelidon nilotica,20
+euhbuz1,European Honey-buzzard,Pernis apivorus,21
+shteag1,Short-toed Snake-Eagle,Circaetus gallicus,22
+booeag1,Booted Eagle,Hieraaetus pennatus,23
+spaeag1,Spanish Eagle,Aquila adalberti,24
+blakit1,Black Kite,Milvus migrans,25
+combuz1,Common Buzzard,Buteo buteo,26
+brnowl,Barn Owl,Tyto alba,27
+eursco1,Eurasian Scops-Owl,Otus scops,28
+eueowl1,Eurasian Eagle-Owl,Bubo bubo,29
+litowl1,Little Owl,Athene noctua,30
+tawowl1,Tawny Owl,Strix aluco,31
+loeowl,Long-eared Owl,Asio otus,32
+hoopoe,Eurasian Hoopoe,Upupa epops,33
+comkin1,Common Kingfisher,Alcedo atthis,34
+eubeat1,European Bee-eater,Merops apiaster,35
+grswoo,Great Spotted Woodpecker,Dendrocopos major,36
+leswoo1,Lesser Spotted Woodpecker,Dryobates minor,37
+grnwoo3,Iberian Green Woodpecker,Picus sharpei,38
+eugori2,Eurasian Golden Oriole,Oriolus oriolus,39
+ibgshr1,Iberian Gray Shrike,Lanius meridionalis,40
+eurjay1,Eurasian Jay,Garrulus glandarius,41
+azwmag3,Iberian Magpie,Cyanopica cooki,42
+eurmag1,Eurasian Magpie,Pica pica,43
+carcro1,Carrion Crow,Corvus corone,44
+coatit2,Coal Tit,Periparus ater,45
+cretit2,Crested Tit,Lophophanes cristatus,46
+blutit,Eurasian Blue Tit,Cyanistes caeruleus,47
+gretit1,Great Tit,Parus major,48
+callar1,Calandra Lark,Melanocorypha calandra,49
+woolar1,Wood Lark,Lullula arborea,50
+skylar,Eurasian Skylark,Alauda arvensis,51
+thelar1,Thekla's Lark,Galerida theklae,52
+crelar2,Crested Lark,Galerida cristata,53
+zitcis1,Zitting Cisticola,Cisticola juncidis,54
+eurwar1,Eurasian Reed Warbler,Acrocephalus scirpaceus,55
+barswa,Barn Swallow,Hirundo rustica,56
+rerswa1,Red-rumped Swallow,Cecropis daurica,57
+cohmar1,Common House-Martin,Delichon urbicum,58
+webwar1,Western Bonelli's Warbler,Phylloscopus bonelli,59
+comchi1,Common Chiffchaff,Phylloscopus collybita,60
+lottit1,Long-tailed Tit,Aegithalos caudatus,61
+blackc1,Eurasian Blackcap,Sylvia atricapilla,62
+subwar1,Subalpine Warbler,Sylvia cantillans,63
+sarwar1,Sardinian Warbler,Sylvia melanocephala,64
+darwar1,Dartford Warbler,Sylvia undata,65
+firecr1,Common Firecrest,Regulus ignicapilla,66
+eurnut2,Eurasian Nuthatch,Sitta europaea,67
+shttre1,Short-toed Treecreeper,Certhia brachydactyla,68
+winwre4,Eurasian Wren,Troglodytes troglodytes,69
+eursta,European Starling,Sturnus vulgaris,70
+sposta1,Spotless Starling,Sturnus unicolor,71
+sonthr1,Song Thrush,Turdus philomelos,72
+redwin,Redwing,Turdus iliacus,73
+eurbla,Eurasian Blackbird,Turdus merula,74
+spofly1,Spotted Flycatcher,Muscicapa striata,75
+eurrob1,European Robin,Erithacus rubecula,76
+comnig1,Common Nightingale,Luscinia megarhynchos,77
+eupfly1,European Pied Flycatcher,Ficedula hypoleuca,78
+blared1,Black Redstart,Phoenicurus ochruros,79
+stonec4,European Stonechat,Saxicola rubicola,80
+dunnoc1,Dunnock,Prunella modularis,81
+houspa,House Sparrow,Passer domesticus,82
+rocpet1,Rock Sparrow,Petronia petronia,83
+meapip1,Meadow Pipit,Anthus pratensis,84
+comcha,Common Chaffinch,Fringilla coelebs,85
+hawfin,Hawfinch,Coccothraustes coccothraustes,86
+eurbul,Eurasian Bullfinch,Pyrrhula pyrrhula,87
+eurgre1,European Greenfinch,Chloris chloris,88
+eurlin1,Eurasian Linnet,Linaria cannabina,89
+eurgol,European Goldfinch,Carduelis carduelis,90
+eurser1,European Serin,Serinus serinus,91
+eursis,Eurasian Siskin,Spinus spinus,92
+corbun1,Corn Bunting,Emberiza calandra,93
+cirbun1,Cirl Bunting,Emberiza cirlus,94
