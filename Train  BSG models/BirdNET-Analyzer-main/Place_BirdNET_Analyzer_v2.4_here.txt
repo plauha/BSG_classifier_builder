@@ -1,0 +1,5 @@
+
+
+git clone https://github.com/birdnet-team/BirdNET-Analyzer.git
+
+v2.4 of BirdNET-Analyzer is available at https://zenodo.org/records/15050749
