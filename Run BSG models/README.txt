@@ -1,5 +1,5 @@
 ﻿
-The model codes are in Python and the model can be run using either example.py Python-code or example.ipynb Jupyter notebook. 
+The models can be run using 'Run BSG models on new data.ipynb' Jupyter notebook. 
 Running the model requires some python libraries, which can be installed with:
 
 Windows:
