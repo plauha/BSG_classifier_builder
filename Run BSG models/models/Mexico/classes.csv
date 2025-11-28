@@ -1,0 +1,48 @@
+species_code,common_name,scientific_name,class
+nobird,No bird,No bird,0
+human,Human,Human,1
+wemcha1,West Mexican Chachalaca,Ortalis poliocephala,2
+redjun,Red Junglefowl,Gallus gallus,3
+eucdov,Eurasian Collared-Dove,Streptopelia decaocto,4
+incdov,Inca Dove,Columbina inca,5
+cogdov,Common Ground Dove,Columbina passerina,6
+whtdov,White-tipped Dove,Leptotila verreauxi,7
+whwdov,White-winged Dove,Zenaida asiatica,8
+legcuc1,Lesser Ground-Cuckoo,Morococcyx erythropygus,9
+compau,Common Pauraque,Nyctidromus albicollis,10
+bucnig,Buff-collared Nightjar,Antrostomus ridgwayi,11
+slchaw2,Slate-colored Hawk,Buteogallus schistaceus,12
+gryhaw2,Gray Hawk,Buteo plagiatus,13
+fepowl,Ferruginous Pygmy-Owl,Glaucidium brasilianum,14
+cittro1,Citreoline Trogon,Trogon citreolus,15
+acowoo,Acorn Woodpecker,Melanerpes formicivorus,16
+gocwoo1,Golden-cheeked Woodpecker,Melanerpes chrysogenys,17
+gofwoo,Golden-fronted Woodpecker,Melanerpes aurifrons,18
+linwoo1,Lineated Woodpecker,Dryocopus lineatus,19
+amekes,American Kestrel,Falco sparverius,20
+whfpar1,White-fronted Parrot,Amazona albifrons,21
+orfpar,Orange-fronted Parakeet,Eupsittula canicularis,22
+nutfly,Nutting's Flycatcher,Myiarchus nuttingi,23
+bncfly,Brown-crested Flycatcher,Myiarchus tyrannulus,24
+grekis,Great Kiskadee,Pitangus sulphuratus,25
+bobfly1,Boat-billed Flycatcher,Megarynchus pitangua,26
+socfly1,Social Flycatcher,Myiozetetes similis,27
+wtmjay1,White-throated Magpie-Jay,Calocitta formosa,28
+buggna,Blue-gray Gnatcatcher,Polioptila caerulea,29
+whlgna2,White-lored Gnatcatcher,Polioptila albiloris,30
+canwre,Canyon Wren,Catherpes mexicanus,31
+runwre1,Rufous-naped Wren,Campylorhynchus rufinucha,32
+banwre1,Banded Wren,Thryophilus pleurostictus,33
+clcrob,Clay-colored Thrush,Turdus grayi,34
+screup1,Scrub Euphonia,Euphonia affinis,35
+citspa1,Cinnamon-tailed Sparrow,Peucaea sumichrasti,36
+sthspa1,Stripe-headed Sparrow,Peucaea ruficauda,37
+olispa,Olive Sparrow,Arremonops rufivirgatus,38
+yewcac1,Yellow-winged Cacique,Cassiculus melanicterus,39
+stbori,Streak-backed Oriole,Icterus pustulatus,40
+altori,Altamira Oriole,Icterus gularis,41
+melbla1,Melodious Blackbird,Dives dives,42
+grtgra,Great-tailed Grackle,Quiscalus mexicanus,43
+blubun,Blue Bunting,Cyanocompsa parellina,44
+orbbun1,Orange-breasted Bunting,Passerina leclancherii,45
+varbun,Varied Bunting,Passerina versicolor,46
