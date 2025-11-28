@@ -6,6 +6,8 @@ BIRDNET:
 FOLDER  BirdNET-Analyzer-main
   git clone https://github.com/birdnet-team/BirdNET-Analyzer.git
   cd BirdNET-Analyzer
+  v2.4 of BirdNET-Analyzer is available at https://zenodo.org/records/15050749
+
 
 xenocanto.py
   Code for obtaining the metadata of xeno-canto recordings for the target species
