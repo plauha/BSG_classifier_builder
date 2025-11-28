@@ -1,0 +1,200 @@
+species_code,common_name,scientific_name,class
+nobird,No bird,No bird,0
+human,Human,Human,1
+gragoo,Graylag Goose,Anser anser,2
+gwfgoo,Greater White-fronted Goose,Anser albifrons,3
+taibeg1,Taiga Bean-Goose,Anser fabalis,4
+bargoo,Barnacle Goose,Branta leucopsis,5
+mallar3,Mallard,Anas platyrhynchos,6
+gnwtea,Green-winged Teal,Anas crecca,7
+comqua1,Common Quail,Coturnix coturnix,8
+redjun,Red Junglefowl,Gallus gallus,9
+rinphe,Ring-necked Pheasant,Phasianus colchicus,10
+wescap1,Western Capercaillie,Tetrao urogallus,11
+blagro1,Black Grouse,Tetrao tetrix,12
+hazgro1,Hazel Grouse,Tetrastes bonasia,13
+rocpta1,Rock Ptarmigan,Lagopus muta,14
+rocpig,Rock Pigeon,Columba livia,15
+stodov1,Stock Dove,Columba oenas,16
+cowpig1,Common Wood-Pigeon,Columba palumbus,17
+eutdov,European Turtle-Dove,Streptopelia turtur,18
+eucdov,Eurasian Collared-Dove,Streptopelia decaocto,19
+comcuc,Common Cuckoo,Cuculus canorus,20
+eurnig1,Eurasian Nightjar,Caprimulgus europaeus,21
+alpswi1,Alpine Swift,Apus melba,22
+comswi,Common Swift,Apus apus,23
+commoo3,Eurasian Moorhen,Gallinula chloropus,24
+eurcoo,Eurasian Coot,Fulica atra,25
+comcra,Common Crane,Grus grus,26
+lirplo,Little Ringed Plover,Charadrius dubius,27
+eurwoo,Eurasian Woodcock,Scolopax rusticola,28
+comsan,Common Sandpiper,Actitis hypoleucos,29
+grnsan,Green Sandpiper,Tringa ochropus,30
+woosan,Wood Sandpiper,Tringa glareola,31
+bkhgul,Black-headed Gull,Chroicocephalus ridibundus,32
+yelgul1,Yellow-legged Gull,Larus michahellis,33
+graher1,Gray Heron,Ardea cinerea,34
+bcnher,Black-crowned Night-Heron,Nycticorax nycticorax,35
+euhbuz1,European Honey-buzzard,Pernis apivorus,36
+eurspa1,Eurasian Sparrowhawk,Accipiter nisus,37
+norgos,Northern Goshawk,Accipiter gentilis,38
+redkit1,Red Kite,Milvus milvus,39
+combuz1,Common Buzzard,Buteo buteo,40
+brnowl,Barn Owl,Tyto alba,41
+eursco1,Eurasian Scops-Owl,Otus scops,42
+eueowl1,Eurasian Eagle-Owl,Bubo bubo,43
+eupowl1,Eurasian Pygmy-Owl,Glaucidium passerinum,44
+tawowl1,Tawny Owl,Strix aluco,45
+loeowl,Long-eared Owl,Asio otus,46
+borowl,Boreal Owl,Aegolius funereus,47
+eurwry,Eurasian Wryneck,Jynx torquilla,48
+ettwoo1,Eurasian Three-toed Woodpecker,Picoides tridactylus,49
+miswoo1,Middle Spotted Woodpecker,Dendrocoptes medius,50
+whbwoo1,White-backed Woodpecker,Dendrocopos leucotos,51
+grswoo,Great Spotted Woodpecker,Dendrocopos major,52
+leswoo1,Lesser Spotted Woodpecker,Dryobates minor,53
+gyfwoo1,Gray-headed Woodpecker,Picus canus,54
+eugwoo2,Eurasian Green Woodpecker,Picus viridis,55
+blawoo1,Black Woodpecker,Dryocopus martius,56
+eurkes,Eurasian Kestrel,Falco tinnunculus,57
+eurhob,Eurasian Hobby,Falco subbuteo,58
+eugori2,Eurasian Golden Oriole,Oriolus oriolus,59
+eurjay1,Eurasian Jay,Garrulus glandarius,60
+eurmag1,Eurasian Magpie,Pica pica,61
+eurnut1,Eurasian Nutcracker,Nucifraga caryocatactes,62
+yebcho1,Yellow-billed Chough,Pyrrhocorax graculus,63
+eurjac,Eurasian Jackdaw,Corvus monedula,64
+rook1,Rook,Corvus frugilegus,65
+carcro1,Carrion Crow,Corvus corone,66
+comrav,Common Raven,Corvus corax,67
+coatit2,Coal Tit,Periparus ater,68
+cretit2,Crested Tit,Lophophanes cristatus,69
+martit2,Marsh Tit,Poecile palustris,70
+wiltit1,Willow Tit,Poecile montanus,71
+blutit,Eurasian Blue Tit,Cyanistes caeruleus,72
+gretit1,Great Tit,Parus major,73
+euptit1,Eurasian Penduline-Tit,Remiz pendulinus,74
+woolar1,Wood Lark,Lullula arborea,75
+skylar,Eurasian Skylark,Alauda arvensis,76
+crelar2,Crested Lark,Galerida cristata,77
+zitcis1,Zitting Cisticola,Cisticola juncidis,78
+marwar3,Marsh Warbler,Acrocephalus palustris,79
+savwar1,Savi's Warbler,Locustella luscinioides,80
+cogwar1,Common Grasshopper-Warbler,Locustella naevia,81
+barswa,Barn Swallow,Hirundo rustica,82
+cohmar1,Common House-Martin,Delichon urbicum,83
+woowar,Wood Warbler,Phylloscopus sibilatrix,84
+webwar1,Western Bonelli's Warbler,Phylloscopus bonelli,85
+wlwwar,Willow Warbler,Phylloscopus trochilus,86
+comchi1,Common Chiffchaff,Phylloscopus collybita,87
+cetwar1,Cetti's Warbler,Cettia cetti,88
+lottit1,Long-tailed Tit,Aegithalos caudatus,89
+blackc1,Eurasian Blackcap,Sylvia atricapilla,90
+garwar1,Garden Warbler,Sylvia borin,91
+leswhi4,Lesser Whitethroat,Sylvia curruca,92
+subwar1,Subalpine Warbler,Sylvia cantillans,93
+sarwar1,Sardinian Warbler,Sylvia melanocephala,94
+grewhi1,Greater Whitethroat,Sylvia communis,95
+goldcr1,Goldcrest,Regulus regulus,96
+firecr1,Common Firecrest,Regulus ignicapilla,97
+eurnut2,Eurasian Nuthatch,Sitta europaea,98
+eurtre1,Eurasian Treecreeper,Certhia familiaris,99
+shttre1,Short-toed Treecreeper,Certhia brachydactyla,100
+winwre4,Eurasian Wren,Troglodytes troglodytes,101
+whtdip1,White-throated Dipper,Cinclus cinclus,102
+eursta,European Starling,Sturnus vulgaris,103
+misthr1,Mistle Thrush,Turdus viscivorus,104
+sonthr1,Song Thrush,Turdus philomelos,105
+redwin,Redwing,Turdus iliacus,106
+eurbla,Eurasian Blackbird,Turdus merula,107
+fieldf,Fieldfare,Turdus pilaris,108
+rinouz1,Ring Ouzel,Turdus torquatus,109
+spofly1,Spotted Flycatcher,Muscicapa striata,110
+eurrob1,European Robin,Erithacus rubecula,111
+comnig1,Common Nightingale,Luscinia megarhynchos,112
+rebfly,Red-breasted Flycatcher,Ficedula parva,113
+eupfly1,European Pied Flycatcher,Ficedula hypoleuca,114
+colfly1,Collared Flycatcher,Ficedula albicollis,115
+comred2,Common Redstart,Phoenicurus phoenicurus,116
+blared1,Black Redstart,Phoenicurus ochruros,117
+norwhe,Northern Wheatear,Oenanthe oenanthe,118
+alpacc1,Alpine Accentor,Prunella collaris,119
+dunnoc1,Dunnock,Prunella modularis,120
+houspa,House Sparrow,Passer domesticus,121
+itaspa1,Italian Sparrow,Passer italiae,122
+eutspa,Eurasian Tree Sparrow,Passer montanus,123
+grywag,Gray Wagtail,Motacilla cinerea,124
+whiwag,White Wagtail,Motacilla alba,125
+meapip1,Meadow Pipit,Anthus pratensis,126
+trepip,Tree Pipit,Anthus trivialis,127
+watpip1,Water Pipit,Anthus spinoletta,128
+comcha,Common Chaffinch,Fringilla coelebs,129
+brambl,Brambling,Fringilla montifringilla,130
+hawfin,Hawfinch,Coccothraustes coccothraustes,131
+eurbul,Eurasian Bullfinch,Pyrrhula pyrrhula,132
+eurgre1,European Greenfinch,Chloris chloris,133
+eurlin1,Eurasian Linnet,Linaria cannabina,134
+comred,Common Redpoll,Acanthis flammea,135
+redcro,Red Crossbill,Loxia curvirostra,136
+eurgol,European Goldfinch,Carduelis carduelis,137
+eurser1,European Serin,Serinus serinus,138
+eursis,Eurasian Siskin,Spinus spinus,139
+rocbun1,Rock Bunting,Emberiza cia,140
+cirbun1,Cirl Bunting,Emberiza cirlus,141
+yellow2,Yellowhammer,Emberiza citrinella,142
+cangoo,Canada Goose,Branta canadensis,143
+mutswa,Mute Swan,Cygnus olor,144
+tufduc,Tufted Duck,Aythya fuligula,145
+comgol,Common Goldeneye,Bucephala clangula,146
+commer,Common Merganser,Mergus merganser,147
+grypar,Gray Partridge,Perdix perdix,148
+litgre1,Little Grebe,Tachybaptus ruficollis,149
+grcgre1,Great Crested Grebe,Podiceps cristatus,150
+watrai1,Water Rail,Rallus aquaticus,151
+corcra,Corn Crake,Crex crex,152
+baicra1,Baillon's Crake,Zapornia pusilla,153
+norlap,Northern Lapwing,Vanellus vanellus,154
+eurcur,Eurasian Curlew,Numenius arquata,155
+batgod,Bar-tailed Godwit,Limosa lapponica,156
+bktgod,Black-tailed Godwit,Limosa limosa,157
+comsni,Common Snipe,Gallinago gallinago,158
+whisto1,White Stork,Ciconia ciconia,159
+grecor,Great Cormorant,Phalacrocorax carbo,160
+grebit1,Great Bittern,Botaurus stellaris,161
+litbit1,Little Bittern,Ixobrychus minutus,162
+greegr,Great Egret,Ardea alba,163
+categr,Cattle Egret,Bubulcus ibis,164
+goleag,Golden Eagle,Aquila chrysaetos,165
+wemhar1,Eurasian Marsh-Harrier,Circus aeruginosus,166
+blakit1,Black Kite,Milvus migrans,167
+whteag,White-tailed Eagle,Haliaeetus albicilla,168
+litowl1,Little Owl,Athene noctua,169
+sheowl,Short-eared Owl,Asio flammeus,170
+hoopoe,Eurasian Hoopoe,Upupa epops,171
+comkin1,Common Kingfisher,Alcedo atthis,172
+merlin,Merlin,Falco columbarius,173
+perfal,Peregrine Falcon,Falco peregrinus,174
+rebshr1,Red-backed Shrike,Lanius collurio,175
+norshr1,Great Gray Shrike,Lanius excubitor,176
+bearee1,Bearded Reedling,Panurus biarmicus,177
+melwar1,Melodious Warbler,Hippolais polyglotta,178
+ictwar1,Icterine Warbler,Hippolais icterina,179
+aquwar1,Aquatic Warbler,Acrocephalus paludicola,180
+sedwar1,Sedge Warbler,Acrocephalus schoenobaenus,181
+eurwar1,Eurasian Reed Warbler,Acrocephalus scirpaceus,182
+grrwar1,Great Reed Warbler,Acrocephalus arundinaceus,183
+eurwar2,River Warbler,Locustella fluviatilis,184
+eurcrm1,Eurasian Crag-Martin,Ptyonoprogne rupestris,185
+arcwar1,Arctic Warbler,Phylloscopus borealis,186
+barwar1,Barred Warbler,Sylvia nisoria,187
+wallcr1,Wallcreeper,Tichodroma muraria,188
+blueth,Bluethroat,Luscinia svecica,189
+whinch1,Whinchat,Saxicola rubetra,190
+stonec4,European Stonechat,Saxicola rubicola,191
+bohwax,Bohemian Waxwing,Bombycilla garrulus,192
+whwsno1,White-winged Snowfinch,Montifringilla nivalis,193
+eaywag1,Western Yellow Wagtail,Motacilla flava,194
+parcro2,Parrot Crossbill,Loxia pytyopsittacus,195
+citfin1,Citril Finch,Carduelis citrinella,196
+snobun,Snow Bunting,Plectrophenax nivalis,197
+reebun,Reed Bunting,Emberiza schoeniclus,198
