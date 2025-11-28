@@ -1,0 +1,122 @@
+###########################################################################################
+# 0. Preliminaries
+# Download BirdNET-Analyzer (v2.4 tflite) and YamNET from their github repositories
+###########################################################################################
+
+# Set variables BirdNETpath and YamNETpath to point directories where you have installed them:
+
+BirdNETpath=../BirdNET-Analyzer
+YamNETpath=../yamnet
+
+# Copy Yamnet files: features.py, params.py, yamnet.py, yamnet_class_map.csv, and yamnet.h5 to current working directory:
+
+for FILE in features.py params.py yamnet.py yamnet_class_map.csv yamnet.h5
+do
+ cp $YamNETpath/$FILE .
+done
+
+# Put original wav files in directory original_wavs (files must have suffix .WAV)
+
+###########################################################################################
+# 1. Chop original input WAV files into 1-minute chunks
+###########################################################################################
+
+mkdir wav60s
+for WAVFILE in original_wavs
+do
+ OUTNAME="$(basename $WAVFILE .WAV)"
+ ffmpeg -nostdin -loglevel error -i original_wavs/$WAVFILE -f segment -segment_time 60 -c copy wav60s/${OUTNAME}_%03d.WAV
+done
+
+ls wav60s > wav60s_list
+
+###########################################################################################
+# 2. Run Birdnet, v2.4
+###########################################################################################
+
+python $BirdNETpath/analyze.py --i wav60s --o bnet --threads 4 --overlap 1.5
+
+# For each input file.WAV there will be output file.BirdNET.selection.table.txt in directory bnet that contains 9 columns:
+# Selection View Channel BeginTime(s) EndTime(s) LowFreq(Hz) HighFreq(Hz) SpeciesCode CommonName Confidence
+
+# Count species detections (ignore first and last 5 seconds in a 60-second file)
+
+perl spcount5_55.pl bnet wav60s_list > SPCOUNT_FILE
+
+###########################################################################################
+# 3. Select species of interest
+###########################################################################################
+
+# In this example take 100 species with largest number of detections based on column 5 (confidence > 0.7)
+
+sort -rnk 5 SPCOUNT_FILE | head -100 > CANDIDATE_species
+
+# Prepare a file with file indices, here randomly select upto 10 files per species that contain species detection with minimum confidence of 0.7
+# Start R and give the following commands:
+
+R
+a=read.table("CANDIDATE_species",header=F)
+ns=a[,5]
+targetnum=10
+b=rep(NA,nrow(a))
+for (i in 1:nrow(a)) {
+  r=sample(ns[i],min(ns[i],targetnum))
+  b[i]=paste(sort(r),collapse=",")
+}
+
+x=data.frame(a[,1],b)
+write.table(x,"CANDIDATE_species_pickindex",row.names=F,col.names=F,quote=F,sep="\t")
+
+# Quit R
+q()
+
+###########################################################################################
+# 4. Extract 20-second target segments from input WAV files
+###########################################################################################
+
+perl sppick5_55.pl bnet 0.7 CANDIDATE_species_pickindex wav60s_list > CANDIDATE_species_pickfiles
+
+# Find target positions in selected input files:
+
+python find_segments.py CANDIDATE_species_pickfiles > CANDIDATE_positions
+
+# Check if overlapping segments can be merged:
+
+perl segment_merge.pl CANDIDATE_cutlist 0 CANDIDATE_positions
+
+# cut 20-second segments for original files and convert to mp3 format
+
+mkdir mp3_20s
+perl cut_ffmpeg.pl mp3_20s CANDIDATE_cutlist
+
+###########################################################################################
+# 5. Run YamNET to detect speech within 20-second target segments
+###########################################################################################
+
+# Convert mp3 to 16kHz wav
+
+mkdir wav_20s
+for ifile in mp3_20s/*.mp3;
+do
+ ofile=$(echo $ifile | sed 's/^mp3/wav/' | sed 's/mp3$/wav/')
+ ffmpeg -nostdin -loglevel error -i $ifile -ar 16000 $ofile
+done
+
+ls wav_20s/* > wav20s_list
+
+python yam_wavlist_speech.py wav20s_list > yamspeech
+
+cat yamspeech  | cut -f1,3 | grep -v '0\.0' > speech.candidates
+
+# Remove speech.candidates from mp3_20s (files where Speech detection confidence exceeds 0.1 averaged over entire segment)
+
+cat speech.candidates | while read ifile conf; do file=$(echo $ifile | sed 's/wav_20/mp3_20/' | sed 's/wav$/mp3/'); rm $file; done
+
+###########################################################################################
+# 6. Create zip file and list file to be sent to BSG annotation portal
+###########################################################################################
+
+zip -r mp3_20s.zip mp3_20s
+
+# Add information for annotation target: 5-second left margin, 10-second target sound, 5-second right margin:
+ls mp3_20s/ | awk '{print $0,5,10,5}' > mp3_20s_list.txt
