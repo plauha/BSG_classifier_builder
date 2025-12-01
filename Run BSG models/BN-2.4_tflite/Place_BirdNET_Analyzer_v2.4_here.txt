@@ -2,3 +2,5 @@
 Convolutional base of BirdNET-Analyzer v2.4 is needed and can be obtained from: 
 https://zenodo.org/records/15050749
 
+BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite
+
