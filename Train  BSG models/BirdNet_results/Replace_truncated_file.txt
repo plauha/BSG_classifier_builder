@@ -1,0 +1,3 @@
+Replace truncated file all_birdnet_results.csv with full version from Zenodo:
+10.5281/zenodo.17734985
+
