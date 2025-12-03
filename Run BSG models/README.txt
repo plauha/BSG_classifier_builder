@@ -1,5 +1,5 @@
 ﻿
-The models can be run using 'Run BSG models on new data.ipynb' Jupyter notebook. 
+The models can be run using 'Run BSG models on new data.ipynb' Jupyter notebook or 'Run BSG models on new data.py' Python script. 
 Running the model requires some python libraries, which can be installed with:
 
 Windows:
