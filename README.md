@@ -3,11 +3,16 @@ Train locally fine-tuned bird sound recognition models.
 
 This repository contains the codes for training the bird sound classification models described in "Bird Sounds Global - model builder: An end-to-end workflow for building locally fine-tuned bird classifiers" and example scripts for analyzing new data with the models.
 
-Folder Train BSG models contains codes for preprocessing the training data, training the classification models, and evaluating the trained classifiers. The training data and some large files required for running the codes will be published in Zenodo: 
-
+### Train BSG models
+Folder 'Train BSG models' contains codes for preprocessing the training data, training the classification models, and evaluating the trained classifiers. The training data and some large files required for running the codes will be published in Zenodo: (LINK WILL BE ADDED)
 
 Following large files are here either missing or truncated here and should be obtained from Zenodo: 
-irmatrix/irmatrix.mat
-BirdNet_results/all_birdnet_results.csv
 
-Folder Run BSG models contains the trained classifiers and codes for running them on new data.
+- irmatrix/irmatrix.mat
+
+- BirdNet_results/all_birdnet_results.csv
+
+To run the model training pipeline, follow the instructions on the README file under 'Train BSG models'.
+
+### Run BSG models
+Folder 'Run BSG models' contains the trained classifiers and codes for analyzing new audio data with the classifiers. Place the audio data to be analyzed under folder test_audio and run the classifier using either 'Run BSG models on new data.py' Python code or 'Run BSG models on new data.ipynb' Jupyter notebook. For more detailed instructions and prerequisites, see the README file under 'Run BSG models'.
