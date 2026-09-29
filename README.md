@@ -12,7 +12,7 @@ Following large files are here either missing or truncated here and should be ob
 
 - BirdNet_results/all_birdnet_results.csv
 
-To run the model training pipeline, follow the instructions on the README file under 'Train BSG models'.
+To run the model training pipeline, follow the instructions on the README file under 'Train BSG models'. For performing the full training pipeline from collecting recordings to annotating them and training the models, users must for now contact the developers of BSG to get their audio uploaded on BSG portal. 
 
 ### Run BSG models
 Folder 'Run BSG models' contains the trained classifiers and codes for analyzing new audio data with the classifiers. Place the audio data to be analyzed under folder test_audio and run the classifier using either 'Run BSG models on new data.py' Python code or 'Run BSG models on new data.ipynb' Jupyter notebook. For more detailed instructions and prerequisites, see the README file under 'Run BSG models'.
