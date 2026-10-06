@@ -1,0 +1,266 @@
+species_code,common_name,scientific_name,luomus_name,suomenkielinen_nimi,class,noise
+nobird,No bird,No bird,,ei lintu,0,True
+human,Human,Human,,ihminen,1,True
+lotduc,Long-tailed Duck,Clangula hyemalis,Clangula hyemalis,alli,2,False
+merlin,Merlin,Falco columbarius,Falco columbarius,ampuhaukka,3,False
+palhar1,Pallid Harrier,Circus macrourus,Circus macrourus,arosuohaukka,4,False
+commur,Common Murre,Uria aalge,Uria aalge,etelänkiisla,5,False
+rinphe,Ring-necked Pheasant,Phasianus colchicus,Phasianus colchicus,fasaani,6,False
+comeid,Common Eider,Somateria mollissima,Somateria mollissima,haahka,7,False
+eurwig,Eurasian Wigeon,Mareca penelope,Anas penelope,haapana,8,False
+blakit1,Black Kite,Milvus migrans,Milvus migrans,haarahaukka,9,False
+barswa,Barn Swallow,Hirundo rustica,Hirundo rustica,haarapääsky,10,False
+eurmag1,Eurasian Magpie,Pica pica,Pica pica,harakka,11,False
+hoopoe,Eurasian Hoopoe,Upupa epops,Upupa epops,harjalintu,12,False
+graher1,Gray Heron,Ardea cinerea,Ardea cinerea,harmaahaikara,13,False
+hergul,Herring Gull,Larus argentatus,Larus argentatus,harmaalokki,14,False
+gyfwoo1,Gray-headed Woodpecker,Picus canus,Picus canus,harmaapäätikka,15,False
+spofly1,Spotted Flycatcher,Muscicapa striata,Muscicapa striata,harmaasieppo,16,False
+gadwal,Gadwall,Mareca strepera,Anas strepera,harmaasorsa,17,False
+gresni1,Great Snipe,Gallinago media,Gallinago media,heinäkurppa,18,False
+gargan,Garganey,Spatula querquedula,Anas querquedula,heinätavi,19,False
+borowl,Boreal Owl,Aegolius funereus,Aegolius funereus,helmipöllö,20,False
+eurlin1,Eurasian Linnet,Linaria cannabina,Carduelis cannabina,hemppo,21,False
+leswhi4,Lesser Whitethroat,Sylvia curruca,Sylvia curruca,hernekerttu,22,False
+combuz1,Common Buzzard,Buteo buteo,Buteo buteo,hiirihaukka,23,False
+nohowl,Northern Hawk Owl,Surnia ulula,Surnia ulula,hiiripöllö,24,False
+goldcr1,Goldcrest,Regulus regulus,Regulus regulus,hippiäinen,25,False
+palwar5,Pallas's Leaf Warbler,Phylloscopus proregulus,Phylloscopus proregulus,hippiäisuunilintu,26,False
+eueowl1,Eurasian Eagle-Owl,Bubo bubo,Bubo bubo,huuhkaja,27,False
+rengre,Red-necked Grebe,Podiceps grisegena,Podiceps grisegena,härkälintu,28,False
+wiltit1,Willow Tit,Poecile montanus,Parus montanus,hömötiainen,29,False
+grewar3,Greenish Warbler,Phylloscopus trochiloides,Phylloscopus trochiloides,idänuunilintu,30,False
+commer,Common Merganser,Mergus merganser,Mergus merganser,isokoskelo,31,False
+parcro2,Parrot Crossbill,Loxia pytyopsittacus,Loxia pytyopsittacus,isokäpylintu,32,False
+norshr1,Great Gray Shrike,Lanius excubitor,Lanius excubitor,isolepinkäinen,33,False
+redkno,Red Knot,Calidris canutus,Calidris canutus,isosirri,34,False
+greegr,Great Egret,Ardea alba,Ardea alba,jalohaikara,35,False
+norpin,Northern Pintail,Anas acuta,Anas acuta,jouhisorsa,36,False
+jacsni,Jack Snipe,Lymnocryptes minimus,Lymnocryptes minimus,jänkäkurppa,37,False
+brbsan,Broad-billed Sandpiper,Calidris falcinellus,Limicola falcinellus,jänkäsirriäinen,38,False
+brambl,Brambling,Fringilla montifringilla,Fringilla montifringilla,järripeippo,39,False
+retloo,Red-throated Loon,Gavia stellata,Gavia stellata,kaakkuri,40,False
+mewgul,Mew Gull,Larus canus,Larus canus,kalalokki,41,False
+comter,Common Tern,Sterna hirundo,Sterna hirundo,kalatiira,42,False
+cangoo,Canada Goose,Branta canadensis,Branta canadensis,kanadanhanhi,43,False
+norgos,Northern Goshawk,Accipiter gentilis,Accipiter gentilis,kanahaukka,44,False
+woolar1,Wood Lark,Lullula arborea,Lullula arborea,kangaskiuru,45,False
+eugplo,European Golden-Plover,Pluvialis apricaria,Pluvialis apricaria,kapustarinta,46,False
+rudtur,Ruddy Turnstone,Arenaria interpres,Arenaria interpres,karikukko,47,False
+grebit1,Great Bittern,Botaurus stellaris,Botaurus stellaris,kaulushaikara,48,False
+eurnig1,Eurasian Nightjar,Caprimulgus europaeus,Caprimulgus europaeus,kehrääjä,49,False
+eurser1,European Serin,Serinus serinus,Serinus serinus,keltahemppo,50,False
+yellow2,Yellowhammer,Emberiza citrinella,Emberiza citrinella,keltasirkku,51,False
+eaywag1,Western Yellow Wagtail,Motacilla flava,Motacilla flava,keltavästäräkki,52,False
+eurdot,Eurasian Dotterel,Charadrius morinellus,Charadrius morinellus,keräkurmitsa,53,False
+rocpig,Rock Pigeon,Columba livia,Columba livia,kesykyyhky,54,False
+rocpta1,Rock Ptarmigan,Lagopus muta,Lagopus muta,kiiruna,55,False
+lwfgoo,Lesser White-fronted Goose,Anser erythropus,Anser erythropus,kiljuhanhi,56,False
+grseag1,Greater Spotted Eagle,Clanga clanga,Aquila clanga,kiljukotka,57,False
+barwar1,Barred Warbler,Sylvia nisoria,Sylvia nisoria,kirjokerttu,58,False
+eupfly1,European Pied Flycatcher,Ficedula hypoleuca,Ficedula hypoleuca,kirjosieppo,59,False
+whwcro,White-winged Crossbill,Loxia leucoptera,Loxia leucoptera,kirjosiipikäpylintu,60,False
+skylar,Eurasian Skylark,Alauda arvensis,Alauda arvensis,kiuru,61,False
+norwhe,Northern Wheatear,Oenanthe oenanthe,Oenanthe oenanthe,kivitasku,62,False
+comrav,Common Raven,Corvus corax,Corvus corax,korppi,63,False
+whtdip1,White-throated Dipper,Cinclus cinclus,Cinclus cinclus,koskikara,64,False
+eursta,European Starling,Sturnus vulgaris,Sturnus vulgaris,kottarainen,65,False
+eugori2,Eurasian Golden Oriole,Oriolus oriolus,Oriolus oriolus,kuhankeittäjä,66,False
+arcloo,Arctic Loon,Gavia arctica,Gavia arctica,kuikka,67,False
+misthr1,Mistle Thrush,Turdus viscivorus,Turdus viscivorus,kulorastas,68,False
+ictwar1,Icterine Warbler,Hippolais icterina,Hippolais icterina,kultarinta,69,False
+comkin1,Common Kingfisher,Alcedo atthis,Alcedo atthis,kuningaskalastaja,70,False
+eurcur,Eurasian Curlew,Numenius arquata,Numenius arquata,kuovi,71,False
+cursan,Curlew Sandpiper,Calidris ferruginea,Calidris ferruginea,kuovisirri,72,False
+comcra,Common Crane,Grus grus,Grus grus,kurki,73,False
+sibjay1,Siberian Jay,Perisoreus infaustus,Perisoreus infaustus,kuukkeli,74,False
+coatit2,Coal Tit,Periparus ater,Parus ater,kuusitiainen,75,False
+mutswa,Mute Swan,Cygnus olor,Cygnus olor,kyhmyjoutsen,76,False
+eurwry,Eurasian Wryneck,Jynx torquilla,Jynx torquilla,käenpiika,77,False
+comcuc,Common Cuckoo,Cuculus canorus,Cuculus canorus,käki,78,False
+grswoo,Great Spotted Woodpecker,Dendrocopos major,Dendrocopos major,käpytikka,79,False
+marsan,Marsh Sandpiper,Tringa stagnatilis,Tringa stagnatilis,lampiviklo,80,False
+norsho,Northern Shoveler,Spatula clypeata,Anas clypeata,lapasorsa,81,False
+gresca,Greater Scaup,Aythya marila,Aythya marila,lapasotka,82,False
+retpip,Red-throated Pipit,Anthus cervinus,Anthus cervinus,lapinkirvinen,83,False
+grgowl,Great Gray Owl,Strix nebulosa,Strix nebulosa,lapinpöllö,84,False
+laplon,Lapland Longspur,Calcarius lapponicus,Calcarius lapponicus,lapinsirkku,85,False
+temsti,Temminck's Stint,Calidris temminckii,Calidris temminckii,lapinsirri,86,False
+gyhchi,Gray-headed Chickadee,Poecile cinctus,Parus cinctus,lapintiainen,87,False
+arcter,Arctic Tern,Sterna paradisaea,Sterna paradisaea,lapintiira,88,False
+arcwar1,Arctic Warbler,Phylloscopus borealis,Phylloscopus borealis,lapinuunilintu,89,False
+whoswa,Whooper Swan,Cygnus cygnus,Cygnus cygnus,laulujoutsen,90,False
+sonthr1,Song Thrush,Turdus philomelos,Turdus philomelos,laulurastas,91,False
+garwar1,Garden Warbler,Sylvia borin,Sylvia borin,lehtokerttu,92,False
+eurwoo,Eurasian Woodcock,Scolopax rusticola,Scolopax rusticola,lehtokurppa,93,False
+tawowl1,Tawny Owl,Strix aluco,Strix aluco,lehtopöllö,94,False
+comred2,Common Redstart,Phoenicurus phoenicurus,Phoenicurus phoenicurus,leppälintu,95,False
+commoo3,Eurasian Moorhen,Gallinula chloropus,Gallinula chloropus,liejukana,96,False
+woosan,Wood Sandpiper,Tringa glareola,Tringa glareola,liro,97,False
+spocra1,Spotted Crake,Porzana porzana,Porzana porzana,luhtahuitti,98,False
+watrai1,Water Rail,Rallus aquaticus,Rallus aquaticus,luhtakana,99,False
+marwar3,Marsh Warbler,Acrocephalus palustris,Acrocephalus palustris,luhtakerttunen,100,False
+rocpip1,Rock Pipit,Anthus petrosus,Anthus petrosus,luotokirvinen,101,False
+pifgoo,Pink-footed Goose,Anser brachyrhynchus,Anser brachyrhynchus,lyhytnokkahanhi,102,False
+goleag,Golden Eagle,Aquila chrysaetos,Aquila chrysaetos,maakotka,103,False
+euhbuz1,European Honey-buzzard,Pernis apivorus,Pernis apivorus,mehiläishaukka,104,False
+eubeat1,European Bee-eater,Merops apiaster,Merops apiaster,mehiläissyöjä,105,False
+gragoo,Graylag Goose,Anser anser,Anser anser,merihanhi,106,False
+euroys1,Eurasian Oystercatcher,Haematopus ostralegus,Haematopus ostralegus,meriharakka,107,False
+parjae,Parasitic Jaeger,Stercorarius parasiticus,Stercorarius parasiticus,merikihu,108,False
+whteag,White-tailed Eagle,Haliaeetus albicilla,Haliaeetus albicilla,merikotka,109,False
+gbbgul,Great Black-backed Gull,Larus marinus,Larus marinus,merilokki,110,False
+grecor,Great Cormorant,Phalacrocorax carbo,Phalacrocorax carbo,merimetso,111,False
+pursan,Purple Sandpiper,Calidris maritima,Calidris maritima,merisirri,112,False
+wescap1,Western Capercaillie,Tetrao urogallus,Tetrao urogallus,metso,113,False
+taibeg1,Taiga Bean-Goose,Anser fabalis,Anser fabalis,metsähanhi,114,False
+trepip,Tree Pipit,Anthus trivialis,Anthus trivialis,metsäkirvinen,115,False
+grnsan,Green Sandpiper,Tringa ochropus,Tringa ochropus,metsäviklo,116,False
+horgre,Horned Grebe,Podiceps auritus,Podiceps auritus,mustakurkku-uikku,117,False
+blared1,Black Redstart,Phoenicurus ochruros,Phoenicurus ochruros,mustaleppälintu,118,False
+blksco1,Common Scoter,Melanitta nigra,Melanitta nigra,mustalintu,119,False
+bktgod,Black-tailed Godwit,Limosa limosa,Limosa limosa,mustapyrstökuiri,120,False
+blackc1,Eurasian Blackcap,Sylvia atricapilla,Sylvia atricapilla,mustapääkerttu,121,False
+eurbla,Eurasian Blackbird,Turdus merula,Turdus merula,mustarastas,122,False
+blkter,Black Tern,Chlidonias niger,Chlidonias niger,mustatiira,123,False
+rook1,Rook,Corvus frugilegus,Corvus frugilegus,mustavaris,124,False
+spored,Spotted Redshank,Tringa erythropus,Tringa erythropus,mustaviklo,125,False
+perfal,Peregrine Falcon,Falco peregrinus,Falco peregrinus,muuttohaukka,126,False
+eurjac,Eurasian Jackdaw,Corvus monedula,Corvus monedula,naakka,127,False
+bkhgul,Black-headed Gull,Chroicocephalus ridibundus,Larus ridibundus,naurulokki,128,False
+meapip1,Meadow Pipit,Anthus pratensis,Anthus pratensis,niittykirvinen,129,False
+monhar1,Montagu's Harrier,Circus pygargus,Circus pygargus,niittysuohaukka,130,False
+eurcoo,Eurasian Coot,Fulica atra,Fulica atra,nokikana,131,False
+hawfin,Hawfinch,Coccothraustes coccothraustes,Coccothraustes coccothraustes,nokkavarpunen,132,False
+tawpip1,Tawny Pipit,Anthus campestris,Anthus campestris,nummikirvinen,133,False
+eurhob,Eurasian Hobby,Falco subbuteo,Falco subbuteo,nuolihaukka,134,False
+eurjay1,Eurasian Jay,Garrulus glandarius,Garrulus glandarius,närhi,135,False
+wlwwar,Willow Warbler,Phylloscopus trochilus,Phylloscopus trochilus,pajulintu,136,False
+reebun,Reed Bunting,Emberiza schoeniclus,Emberiza schoeniclus,pajusirkku,137,False
+blawoo1,Black Woodpecker,Dryocopus martius,Dryocopus martius,palokärki,138,False
+comcha,Common Chaffinch,Fringilla coelebs,Fringilla coelebs,peippo,139,False
+grypar,Gray Partridge,Perdix perdix,Perdix perdix,peltopyy,140,False
+ortbun1,Ortolan Bunting,Emberiza hortulana,Emberiza hortulana,peltosirkku,141,False
+grewhi1,Greater Whitethroat,Sylvia communis,Sylvia communis,pensaskerttu,142,False
+cogwar1,Common Grasshopper-Warbler,Locustella naevia,Locustella naevia,pensassirkkalintu,143,False
+whinch1,Whinchat,Saxicola rubetra,Saxicola rubetra,pensastasku,144,False
+winwre4,Eurasian Wren,Troglodytes troglodytes,Troglodytes troglodytes,peukaloinen,145,False
+rolhaw,Rough-legged Hawk,Buteo lagopus,Buteo lagopus,piekana,146,False
+litgre1,Little Grebe,Tachybaptus ruficollis,Tachybaptus ruficollis,pikku-uikku,147,False
+litcra1,Little Crake,Zapornia parva,Porzana parva,pikkuhuitti,148,False
+tunswa,Tundra Swan,Cygnus columbianus,Cygnus columbianus,pikkujoutsen,149,False
+boowar1,Booted Warbler,Iduna caligata,Hippolais caligata,pikkukultarinta,150,False
+whimbr,Whimbrel,Numenius phaeopus,Numenius phaeopus,pikkukuovi,151,False
+redcro,Red Crossbill,Loxia curvirostra,Loxia curvirostra,pikkukäpylintu,152,False
+rebshr1,Red-backed Shrike,Lanius collurio,Lanius collurio,pikkulepinkäinen,153,False
+litgul,Little Gull,Hydrocoloeus minutus,Hydrocoloeus minutus,pikkulokki,154,False
+rebfly,Red-breasted Flycatcher,Ficedula parva,Ficedula parva,pikkusieppo,155,False
+litbun,Little Bunting,Emberiza pusilla,Emberiza pusilla,pikkusirkku,156,False
+litsti,Little Stint,Calidris minuta,Calidris minuta,pikkusirri,157,False
+litter1,Little Tern,Sternula albifrons,Sternula albifrons,pikkutiira,158,False
+leswoo1,Lesser Spotted Woodpecker,Dryobates minor,Dendrocopos minor,pikkutikka,159,False
+lirplo,Little Ringed Plover,Charadrius dubius,Charadrius dubius,pikkutylli,160,False
+eutspa,Eurasian Tree Sparrow,Passer montanus,Passer montanus,pikkuvarpunen,161,False
+whwsco3,Velvet Scoter,Melanitta fusca,Melanitta fusca,pilkkasiipi,162,False
+rusbun,Rustic Bunting,Emberiza rustica,Emberiza rustica,pohjansirkku,163,False
+ettwoo1,Eurasian Three-toed Woodpecker,Picoides tridactylus,Picoides tridactylus,pohjantikka,164,False
+snobun,Snow Bunting,Plectrophenax nivalis,Plectrophenax nivalis,pulmunen,165,False
+sander,Sanderling,Calidris alba,Calidris alba,pulmussirri,166,False
+comred1,Common Redshank,Tringa totanus,Tringa totanus,punajalkaviklo,167,False
+batgod,Bar-tailed Godwit,Limosa lapponica,Limosa lapponica,punakuiri,168,False
+redwin,Redwing,Turdus iliacus,Turdus iliacus,punakylkirastas,169,False
+eurrob1,European Robin,Erithacus rubecula,Erithacus rubecula,punarinta,170,False
+compoc,Common Pochard,Aythya ferina,Aythya ferina,punasotka,171,False
+eurbul,Eurasian Bullfinch,Pyrrhula pyrrhula,Pyrrhula pyrrhula,punatulkku,172,False
+comros,Common Rosefinch,Carpodacus erythrinus,Carpodacus erythrinus,punavarpunen,173,False
+euptit1,Eurasian Penduline-Tit,Remiz pendulinus,Remiz pendulinus,pussitiainen,174,False
+eurtre1,Eurasian Treecreeper,Certhia familiaris,Certhia familiaris,puukiipijä,175,False
+lottit1,Long-tailed Tit,Aegithalos caudatus,Aegithalos caudatus,pyrstötiainen,176,False
+hazgro1,Hazel Grouse,Tetrastes bonasia,Bonasa bonasia,pyy,177,False
+eurnut1,Eurasian Nutcracker,Nucifraga caryocatactes,Nucifraga caryocatactes,pähkinähakki,178,False
+eurnut2,Eurasian Nuthatch,Sitta europaea,Sitta europaea,pähkinänakkeli,179,False
+tersan,Terek Sandpiper,Xenus cinereus,Xenus cinereus,rantakurvi,180,False
+comsan,Common Sandpiper,Actitis hypoleucos,Actitis hypoleucos,rantasipi,181,False
+grrwar1,Great Reed Warbler,Acrocephalus arundinaceus,Acrocephalus arundinaceus,rastaskerttunen,182,False
+dunnoc1,Dunnock,Prunella modularis,Prunella modularis,rautiainen,183,False
+wilpta,Willow Ptarmigan,Lagopus lagopus,Lagopus lagopus,riekko,184,False
+blkgui,Black Guillemot,Cepphus grylle,Cepphus grylle,riskilä,185,False
+comshe,Common Shelduck,Tadorna tadorna,Tadorna tadorna,ristisorsa,186,False
+santer1,Sandwich Tern,Thalasseus sandvicensis,Thalasseus sandvicensis,riuttatiira,187,False
+corcra,Corn Crake,Crex crex,Crex crex,ruisrääkkä,188,False
+razorb,Razorbill,Alca torda,Alca torda,ruokki,189,False
+sedwar1,Sedge Warbler,Acrocephalus schoenobaenus,Acrocephalus schoenobaenus,ruokokerttunen,190,False
+savwar1,Savi's Warbler,Locustella luscinioides,Locustella luscinioides,ruokosirkkalintu,191,False
+wemhar1,Eurasian Marsh-Harrier,Circus aeruginosus,Circus aeruginosus,ruskosuohaukka,192,False
+eurwar1,Eurasian Reed Warbler,Acrocephalus scirpaceus,Acrocephalus scirpaceus,rytikerttunen,193,False
+fieldf,Fieldfare,Turdus pilaris,Turdus pilaris,räkättirastas,194,False
+caster1,Caspian Tern,Hydroprogne caspia,Hydroprogne caspia,räyskä,195,False
+cohmar1,Common House-Martin,Delichon urbicum,Delichon urbicum,räystäspääsky,196,False
+loeowl,Long-eared Owl,Asio otus,Asio otus,sarvipöllö,197,False
+thrnig1,Thrush Nightingale,Luscinia luscinia,Luscinia luscinia,satakieli,198,False
+lbbgul,Lesser Black-backed Gull,Larus fuscus,Larus fuscus,selkälokki,199,False
+brant,Brant,Branta bernicla,Branta bernicla,sepelhanhi,200,False
+cowpig1,Common Wood-Pigeon,Columba palumbus,Columba palumbus,sepelkyyhky,201,False
+rinouz1,Ring Ouzel,Turdus torquatus,Turdus torquatus,sepelrastas,202,False
+colfly1,Collared Flycatcher,Ficedula albicollis,Ficedula albicollis,sepelsieppo,203,False
+grcgre1,Great Crested Grebe,Podiceps cristatus,Podiceps cristatus,silkkiuikku,204,False
+refblu,Red-flanked Bluetail,Tarsiger cyanurus,Tarsiger cyanurus,sinipyrstö,205,False
+blueth,Bluethroat,Luscinia svecica,Luscinia svecica,sinirinta,206,False
+mallar3,Mallard,Anas platyrhynchos,Anas platyrhynchos,sinisorsa,207,False
+norhar1,Hen Harrier,Circus cyaneus,Circus cyaneus,sinisuohaukka,208,False
+blutit,Eurasian Blue Tit,Cyanistes caeruleus,Parus caeruleus,sinitiainen,209,False
+woowar,Wood Warbler,Phylloscopus sibilatrix,Phylloscopus sibilatrix,sirittäjä,210,False
+citwag,Citrine Wagtail,Motacilla citreola,Motacilla citreola,sitruunavästäräkki,211,False
+ruff,Ruff,Calidris pugnax,Philomachus pugnax,suokukko,212,False
+sheowl,Short-eared Owl,Asio flammeus,Asio flammeus,suopöllö,213,False
+dunlin,Dunlin,Calidris alpina,Calidris alpina,suosirri,214,False
+osprey,Osprey,Pandion haliaetus,Pandion haliaetus,sääksi,215,False
+yebwar3,Yellow-browed Warbler,Phylloscopus inornatus,Phylloscopus inornatus,taigauunilintu,216,False
+comsni,Common Snipe,Gallinago gallinago,Gallinago gallinago,taivaanvuohi,217,False
+gretit1,Great Tit,Parus major,Parus major,talitiainen,218,False
+gnwtea,Green-winged Teal,Anas crecca,Anas crecca,tavi,219,False
+pingro,Pine Grosbeak,Pinicola enucleator,Pinicola enucleator,taviokuurna,220,False
+blagro1,Black Grouse,Tetrao tetrix,Tetrao tetrix,teeri,221,False
+comgol,Common Goldeneye,Bucephala clangula,Bucephala clangula,telkkä,222,False
+comswi,Common Swift,Apus apus,Apus apus,tervapääsky,223,False
+eurgol,European Goldfinch,Carduelis carduelis,Carduelis carduelis,tikli,224,False
+bohwax,Bohemian Waxwing,Bombycilla garrulus,Bombycilla garrulus,tilhi,225,False
+comchi1,Common Chiffchaff,Phylloscopus collybita,Phylloscopus collybita,tiltaltti,226,False
+rebmer,Red-breasted Merganser,Mergus serrator,Mergus serrator,tukkakoskelo,227,False
+tufduc,Tufted Duck,Aythya fuligula,Aythya fuligula,tukkasotka,228,False
+firecr1,Common Firecrest,Regulus ignicapilla,Regulus ignicapilla,tulipäähippiäinen,229,False
+gwfgoo,Greater White-fronted Goose,Anser albifrons,Anser albifrons,tundrahanhi,230,False
+bkbplo,Black-bellied Plover,Pluvialis squatarola,Pluvialis squatarola,tundrakurmitsa,231,False
+gyrfal,Gyrfalcon,Falco rusticolus,Falco rusticolus,tunturihaukka,232,False
+lotjae,Long-tailed Jaeger,Stercorarius longicaudus,Stercorarius longicaudus,tunturikihu,233,False
+horlar,Horned Lark,Eremophila alpestris,Eremophila alpestris,tunturikiuru,234,False
+snoowl1,Snowy Owl,Bubo scandiacus,Bubo scandiacus,tunturipöllö,235,False
+eucdov,Eurasian Collared-Dove,Streptopelia decaocto,Streptopelia decaocto,turkinkyyhky,236,False
+eutdov,European Turtle-Dove,Streptopelia turtur,Streptopelia turtur,turturikyyhky,237,False
+eurkes,Eurasian Kestrel,Falco tinnunculus,Falco tinnunculus,tuulihaukka,238,False
+corplo,Common Ringed Plover,Charadrius hiaticula,Charadrius hiaticula,tylli,239,False
+banswa,Bank Swallow,Riparia riparia,Riparia riparia,törmäpääsky,240,False
+norlap,Northern Lapwing,Vanellus vanellus,Vanellus vanellus,töyhtöhyyppä,241,False
+cretit2,Crested Tit,Lophophanes cristatus,Parus cristatus,töyhtötiainen,242,False
+smew,Smew,Mergellus albellus,Mergellus albellus,uivelo,243,False
+comred,Common Redpoll,Acanthis flammea,Carduelis flammea,urpiainen,244,False
+stodov1,Stock Dove,Columba oenas,Columba oenas,uuttukyyhky,245,False
+bargoo,Barnacle Goose,Branta leucopsis,Branta leucopsis,valkoposkihanhi,246,False
+whbwoo1,White-backed Woodpecker,Dendrocopos leucotos,Dendrocopos leucotos,valkoselkätikka,247,False
+comgre,Common Greenshank,Tringa nebularia,Tringa nebularia,valkoviklo,248,False
+hoocro1,Hooded Crow,Corvus cornix,Corvus corone,varis,249,False
+houspa,House Sparrow,Passer domesticus,Passer domesticus,varpunen,250,False
+eurspa1,Eurasian Sparrowhawk,Accipiter nisus,Accipiter nisus,varpushaukka,251,False
+eupowl1,Eurasian Pygmy-Owl,Glaucidium passerinum,Glaucidium passerinum,varpuspöllö,252,False
+renpha,Red-necked Phalarope,Phalaropus lobatus,Phalaropus lobatus,vesipääsky,253,False
+eurgre1,European Greenfinch,Chloris chloris,Carduelis chloris,viherpeippo,254,False
+eursis,Eurasian Siskin,Spinus spinus,Carduelis spinus,vihervarpunen,255,False
+bearee1,Bearded Reedling,Panurus biarmicus,Panurus biarmicus,viiksitimali,256,False
+comqua1,Common Quail,Coturnix coturnix,Coturnix coturnix,viiriäinen,257,False
+uraowl1,Ural Owl,Strix uralensis,Strix uralensis,viirupöllö,258,False
+blrwar1,Blyth's Reed Warbler,Acrocephalus dumetorum,Acrocephalus dumetorum,viitakerttunen,259,False
+eurwar2,River Warbler,Locustella fluviatilis,Locustella fluviatilis,viitasirkkalintu,260,False
+martit2,Marsh Tit,Poecile palustris,Poecile palustris,viitatiainen,261,False
+grywag,Gray Wagtail,Motacilla cinerea,Motacilla cinerea,virtavästäräkki,262,False
+twite1,Twite,Linaria flavirostris,Carduelis flavirostris,vuorihemppo,263,False
+whiwag,White Wagtail,Motacilla alba,Motacilla alba,västäräkki,264,False
