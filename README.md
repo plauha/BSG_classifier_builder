@@ -16,3 +16,6 @@ To run the model training pipeline, follow the instructions on the README file u
 
 ### Run BSG models
 Folder 'Run BSG models' contains the trained classifiers and codes for analyzing new audio data with the classifiers. Place the audio data to be analyzed under folder test_audio and run the classifier using either 'Run BSG models on new data.py' Python code or 'Run BSG models on new data.ipynb' Jupyter notebook. For more detailed instructions and prerequisites, see the README file under 'Run BSG models'.
+
+All models can also be run through the desktop application available at:
+https://laji.fi/theme/sirkku
