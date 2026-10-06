@@ -6,7 +6,7 @@ This repository contains the codes for training the bird sound classification mo
 ### Train BSG models
 Folder 'Train BSG models' contains codes for preprocessing the training data, training the classification models, and evaluating the trained classifiers. The training data and some large files required for running the codes will be published in Zenodo: (LINK WILL BE ADDED)
 
-Following large files are here either missing or truncated here and should be obtained from Zenodo: 
+In addition to the training data, following large files are here either missing or truncated here and should also be obtained from Zenodo: 
 
 - irmatrix/irmatrix.mat
 
