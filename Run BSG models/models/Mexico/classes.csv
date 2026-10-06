@@ -1,0 +1,48 @@
+species_code,common_name,scientific_name,class,noise
+nobird,No bird,No bird,0,True
+human,Human,Human,1,True
+wemcha1,West Mexican Chachalaca,Ortalis poliocephala,2,False
+redjun,Red Junglefowl,Gallus gallus,3,False
+eucdov,Eurasian Collared-Dove,Streptopelia decaocto,4,False
+incdov,Inca Dove,Columbina inca,5,False
+cogdov,Common Ground Dove,Columbina passerina,6,False
+whtdov,White-tipped Dove,Leptotila verreauxi,7,False
+whwdov,White-winged Dove,Zenaida asiatica,8,False
+legcuc1,Lesser Ground-Cuckoo,Morococcyx erythropygus,9,False
+compau,Common Pauraque,Nyctidromus albicollis,10,False
+bucnig,Buff-collared Nightjar,Antrostomus ridgwayi,11,False
+slchaw2,Slate-colored Hawk,Buteogallus schistaceus,12,False
+gryhaw2,Gray Hawk,Buteo plagiatus,13,False
+fepowl,Ferruginous Pygmy-Owl,Glaucidium brasilianum,14,False
+cittro1,Citreoline Trogon,Trogon citreolus,15,False
+acowoo,Acorn Woodpecker,Melanerpes formicivorus,16,False
+gocwoo1,Golden-cheeked Woodpecker,Melanerpes chrysogenys,17,False
+gofwoo,Golden-fronted Woodpecker,Melanerpes aurifrons,18,False
+linwoo1,Lineated Woodpecker,Dryocopus lineatus,19,False
+amekes,American Kestrel,Falco sparverius,20,False
+whfpar1,White-fronted Parrot,Amazona albifrons,21,False
+orfpar,Orange-fronted Parakeet,Eupsittula canicularis,22,False
+nutfly,Nutting's Flycatcher,Myiarchus nuttingi,23,False
+bncfly,Brown-crested Flycatcher,Myiarchus tyrannulus,24,False
+grekis,Great Kiskadee,Pitangus sulphuratus,25,False
+bobfly1,Boat-billed Flycatcher,Megarynchus pitangua,26,False
+socfly1,Social Flycatcher,Myiozetetes similis,27,False
+wtmjay1,White-throated Magpie-Jay,Calocitta formosa,28,False
+buggna,Blue-gray Gnatcatcher,Polioptila caerulea,29,False
+whlgna2,White-lored Gnatcatcher,Polioptila albiloris,30,False
+canwre,Canyon Wren,Catherpes mexicanus,31,False
+runwre1,Rufous-naped Wren,Campylorhynchus rufinucha,32,False
+banwre1,Banded Wren,Thryophilus pleurostictus,33,False
+clcrob,Clay-colored Thrush,Turdus grayi,34,False
+screup1,Scrub Euphonia,Euphonia affinis,35,False
+citspa1,Cinnamon-tailed Sparrow,Peucaea sumichrasti,36,False
+sthspa1,Stripe-headed Sparrow,Peucaea ruficauda,37,False
+olispa,Olive Sparrow,Arremonops rufivirgatus,38,False
+yewcac1,Yellow-winged Cacique,Cassiculus melanicterus,39,False
+stbori,Streak-backed Oriole,Icterus pustulatus,40,False
+altori,Altamira Oriole,Icterus gularis,41,False
+melbla1,Melodious Blackbird,Dives dives,42,False
+grtgra,Great-tailed Grackle,Quiscalus mexicanus,43,False
+blubun,Blue Bunting,Cyanocompsa parellina,44,False
+orbbun1,Orange-breasted Bunting,Passerina leclancherii,45,False
+varbun,Varied Bunting,Passerina versicolor,46,False
