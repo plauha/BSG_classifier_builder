@@ -1,0 +1,11 @@
+{
+  "model_file": "BSG_birds_CentralEurope_v1.tflite",
+  "classes_file": "classes.csv",
+  "config": {
+    "sample_rate": 48000,
+    "raw_config": {
+      "requires_birdnet": true,
+      "clip_duration": 3
+    }
+  }
+}

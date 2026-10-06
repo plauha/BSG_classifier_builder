@@ -1,0 +1,200 @@
+species_code,common_name,scientific_name,class,noise
+nobird,No bird,No bird,0,True
+human,Human,Human,1,True
+gragoo,Graylag Goose,Anser anser,2,False
+gwfgoo,Greater White-fronted Goose,Anser albifrons,3,False
+taibeg1,Taiga Bean-Goose,Anser fabalis,4,False
+bargoo,Barnacle Goose,Branta leucopsis,5,False
+mallar3,Mallard,Anas platyrhynchos,6,False
+gnwtea,Green-winged Teal,Anas crecca,7,False
+comqua1,Common Quail,Coturnix coturnix,8,False
+redjun,Red Junglefowl,Gallus gallus,9,False
+rinphe,Ring-necked Pheasant,Phasianus colchicus,10,False
+wescap1,Western Capercaillie,Tetrao urogallus,11,False
+blagro1,Black Grouse,Tetrao tetrix,12,False
+hazgro1,Hazel Grouse,Tetrastes bonasia,13,False
+rocpta1,Rock Ptarmigan,Lagopus muta,14,False
+rocpig,Rock Pigeon,Columba livia,15,False
+stodov1,Stock Dove,Columba oenas,16,False
+cowpig1,Common Wood-Pigeon,Columba palumbus,17,False
+eutdov,European Turtle-Dove,Streptopelia turtur,18,False
+eucdov,Eurasian Collared-Dove,Streptopelia decaocto,19,False
+comcuc,Common Cuckoo,Cuculus canorus,20,False
+eurnig1,Eurasian Nightjar,Caprimulgus europaeus,21,False
+alpswi1,Alpine Swift,Apus melba,22,False
+comswi,Common Swift,Apus apus,23,False
+commoo3,Eurasian Moorhen,Gallinula chloropus,24,False
+eurcoo,Eurasian Coot,Fulica atra,25,False
+comcra,Common Crane,Grus grus,26,False
+lirplo,Little Ringed Plover,Charadrius dubius,27,False
+eurwoo,Eurasian Woodcock,Scolopax rusticola,28,False
+comsan,Common Sandpiper,Actitis hypoleucos,29,False
+grnsan,Green Sandpiper,Tringa ochropus,30,False
+woosan,Wood Sandpiper,Tringa glareola,31,False
+bkhgul,Black-headed Gull,Chroicocephalus ridibundus,32,False
+yelgul1,Yellow-legged Gull,Larus michahellis,33,False
+graher1,Gray Heron,Ardea cinerea,34,False
+bcnher,Black-crowned Night-Heron,Nycticorax nycticorax,35,False
+euhbuz1,European Honey-buzzard,Pernis apivorus,36,False
+eurspa1,Eurasian Sparrowhawk,Accipiter nisus,37,False
+norgos,Northern Goshawk,Accipiter gentilis,38,False
+redkit1,Red Kite,Milvus milvus,39,False
+combuz1,Common Buzzard,Buteo buteo,40,False
+brnowl,Barn Owl,Tyto alba,41,False
+eursco1,Eurasian Scops-Owl,Otus scops,42,False
+eueowl1,Eurasian Eagle-Owl,Bubo bubo,43,False
+eupowl1,Eurasian Pygmy-Owl,Glaucidium passerinum,44,False
+tawowl1,Tawny Owl,Strix aluco,45,False
+loeowl,Long-eared Owl,Asio otus,46,False
+borowl,Boreal Owl,Aegolius funereus,47,False
+eurwry,Eurasian Wryneck,Jynx torquilla,48,False
+ettwoo1,Eurasian Three-toed Woodpecker,Picoides tridactylus,49,False
+miswoo1,Middle Spotted Woodpecker,Dendrocoptes medius,50,False
+whbwoo1,White-backed Woodpecker,Dendrocopos leucotos,51,False
+grswoo,Great Spotted Woodpecker,Dendrocopos major,52,False
+leswoo1,Lesser Spotted Woodpecker,Dryobates minor,53,False
+gyfwoo1,Gray-headed Woodpecker,Picus canus,54,False
+eugwoo2,Eurasian Green Woodpecker,Picus viridis,55,False
+blawoo1,Black Woodpecker,Dryocopus martius,56,False
+eurkes,Eurasian Kestrel,Falco tinnunculus,57,False
+eurhob,Eurasian Hobby,Falco subbuteo,58,False
+eugori2,Eurasian Golden Oriole,Oriolus oriolus,59,False
+eurjay1,Eurasian Jay,Garrulus glandarius,60,False
+eurmag1,Eurasian Magpie,Pica pica,61,False
+eurnut1,Eurasian Nutcracker,Nucifraga caryocatactes,62,False
+yebcho1,Yellow-billed Chough,Pyrrhocorax graculus,63,False
+eurjac,Eurasian Jackdaw,Corvus monedula,64,False
+rook1,Rook,Corvus frugilegus,65,False
+carcro1,Carrion Crow,Corvus corone,66,False
+comrav,Common Raven,Corvus corax,67,False
+coatit2,Coal Tit,Periparus ater,68,False
+cretit2,Crested Tit,Lophophanes cristatus,69,False
+martit2,Marsh Tit,Poecile palustris,70,False
+wiltit1,Willow Tit,Poecile montanus,71,False
+blutit,Eurasian Blue Tit,Cyanistes caeruleus,72,False
+gretit1,Great Tit,Parus major,73,False
+euptit1,Eurasian Penduline-Tit,Remiz pendulinus,74,False
+woolar1,Wood Lark,Lullula arborea,75,False
+skylar,Eurasian Skylark,Alauda arvensis,76,False
+crelar2,Crested Lark,Galerida cristata,77,False
+zitcis1,Zitting Cisticola,Cisticola juncidis,78,False
+marwar3,Marsh Warbler,Acrocephalus palustris,79,False
+savwar1,Savi's Warbler,Locustella luscinioides,80,False
+cogwar1,Common Grasshopper-Warbler,Locustella naevia,81,False
+barswa,Barn Swallow,Hirundo rustica,82,False
+cohmar1,Common House-Martin,Delichon urbicum,83,False
+woowar,Wood Warbler,Phylloscopus sibilatrix,84,False
+webwar1,Western Bonelli's Warbler,Phylloscopus bonelli,85,False
+wlwwar,Willow Warbler,Phylloscopus trochilus,86,False
+comchi1,Common Chiffchaff,Phylloscopus collybita,87,False
+cetwar1,Cetti's Warbler,Cettia cetti,88,False
+lottit1,Long-tailed Tit,Aegithalos caudatus,89,False
+blackc1,Eurasian Blackcap,Sylvia atricapilla,90,False
+garwar1,Garden Warbler,Sylvia borin,91,False
+leswhi4,Lesser Whitethroat,Sylvia curruca,92,False
+subwar1,Subalpine Warbler,Sylvia cantillans,93,False
+sarwar1,Sardinian Warbler,Sylvia melanocephala,94,False
+grewhi1,Greater Whitethroat,Sylvia communis,95,False
+goldcr1,Goldcrest,Regulus regulus,96,False
+firecr1,Common Firecrest,Regulus ignicapilla,97,False
+eurnut2,Eurasian Nuthatch,Sitta europaea,98,False
+eurtre1,Eurasian Treecreeper,Certhia familiaris,99,False
+shttre1,Short-toed Treecreeper,Certhia brachydactyla,100,False
+winwre4,Eurasian Wren,Troglodytes troglodytes,101,False
+whtdip1,White-throated Dipper,Cinclus cinclus,102,False
+eursta,European Starling,Sturnus vulgaris,103,False
+misthr1,Mistle Thrush,Turdus viscivorus,104,False
+sonthr1,Song Thrush,Turdus philomelos,105,False
+redwin,Redwing,Turdus iliacus,106,False
+eurbla,Eurasian Blackbird,Turdus merula,107,False
+fieldf,Fieldfare,Turdus pilaris,108,False
+rinouz1,Ring Ouzel,Turdus torquatus,109,False
+spofly1,Spotted Flycatcher,Muscicapa striata,110,False
+eurrob1,European Robin,Erithacus rubecula,111,False
+comnig1,Common Nightingale,Luscinia megarhynchos,112,False
+rebfly,Red-breasted Flycatcher,Ficedula parva,113,False
+eupfly1,European Pied Flycatcher,Ficedula hypoleuca,114,False
+colfly1,Collared Flycatcher,Ficedula albicollis,115,False
+comred2,Common Redstart,Phoenicurus phoenicurus,116,False
+blared1,Black Redstart,Phoenicurus ochruros,117,False
+norwhe,Northern Wheatear,Oenanthe oenanthe,118,False
+alpacc1,Alpine Accentor,Prunella collaris,119,False
+dunnoc1,Dunnock,Prunella modularis,120,False
+houspa,House Sparrow,Passer domesticus,121,False
+itaspa1,Italian Sparrow,Passer italiae,122,False
+eutspa,Eurasian Tree Sparrow,Passer montanus,123,False
+grywag,Gray Wagtail,Motacilla cinerea,124,False
+whiwag,White Wagtail,Motacilla alba,125,False
+meapip1,Meadow Pipit,Anthus pratensis,126,False
+trepip,Tree Pipit,Anthus trivialis,127,False
+watpip1,Water Pipit,Anthus spinoletta,128,False
+comcha,Common Chaffinch,Fringilla coelebs,129,False
+brambl,Brambling,Fringilla montifringilla,130,False
+hawfin,Hawfinch,Coccothraustes coccothraustes,131,False
+eurbul,Eurasian Bullfinch,Pyrrhula pyrrhula,132,False
+eurgre1,European Greenfinch,Chloris chloris,133,False
+eurlin1,Eurasian Linnet,Linaria cannabina,134,False
+comred,Common Redpoll,Acanthis flammea,135,False
+redcro,Red Crossbill,Loxia curvirostra,136,False
+eurgol,European Goldfinch,Carduelis carduelis,137,False
+eurser1,European Serin,Serinus serinus,138,False
+eursis,Eurasian Siskin,Spinus spinus,139,False
+rocbun1,Rock Bunting,Emberiza cia,140,False
+cirbun1,Cirl Bunting,Emberiza cirlus,141,False
+yellow2,Yellowhammer,Emberiza citrinella,142,False
+cangoo,Canada Goose,Branta canadensis,143,False
+mutswa,Mute Swan,Cygnus olor,144,False
+tufduc,Tufted Duck,Aythya fuligula,145,False
+comgol,Common Goldeneye,Bucephala clangula,146,False
+commer,Common Merganser,Mergus merganser,147,False
+grypar,Gray Partridge,Perdix perdix,148,False
+litgre1,Little Grebe,Tachybaptus ruficollis,149,False
+grcgre1,Great Crested Grebe,Podiceps cristatus,150,False
+watrai1,Water Rail,Rallus aquaticus,151,False
+corcra,Corn Crake,Crex crex,152,False
+baicra1,Baillon's Crake,Zapornia pusilla,153,False
+norlap,Northern Lapwing,Vanellus vanellus,154,False
+eurcur,Eurasian Curlew,Numenius arquata,155,False
+batgod,Bar-tailed Godwit,Limosa lapponica,156,False
+bktgod,Black-tailed Godwit,Limosa limosa,157,False
+comsni,Common Snipe,Gallinago gallinago,158,False
+whisto1,White Stork,Ciconia ciconia,159,False
+grecor,Great Cormorant,Phalacrocorax carbo,160,False
+grebit1,Great Bittern,Botaurus stellaris,161,False
+litbit1,Little Bittern,Ixobrychus minutus,162,False
+greegr,Great Egret,Ardea alba,163,False
+categr,Cattle Egret,Bubulcus ibis,164,False
+goleag,Golden Eagle,Aquila chrysaetos,165,False
+wemhar1,Eurasian Marsh-Harrier,Circus aeruginosus,166,False
+blakit1,Black Kite,Milvus migrans,167,False
+whteag,White-tailed Eagle,Haliaeetus albicilla,168,False
+litowl1,Little Owl,Athene noctua,169,False
+sheowl,Short-eared Owl,Asio flammeus,170,False
+hoopoe,Eurasian Hoopoe,Upupa epops,171,False
+comkin1,Common Kingfisher,Alcedo atthis,172,False
+merlin,Merlin,Falco columbarius,173,False
+perfal,Peregrine Falcon,Falco peregrinus,174,False
+rebshr1,Red-backed Shrike,Lanius collurio,175,False
+norshr1,Great Gray Shrike,Lanius excubitor,176,False
+bearee1,Bearded Reedling,Panurus biarmicus,177,False
+melwar1,Melodious Warbler,Hippolais polyglotta,178,False
+ictwar1,Icterine Warbler,Hippolais icterina,179,False
+aquwar1,Aquatic Warbler,Acrocephalus paludicola,180,False
+sedwar1,Sedge Warbler,Acrocephalus schoenobaenus,181,False
+eurwar1,Eurasian Reed Warbler,Acrocephalus scirpaceus,182,False
+grrwar1,Great Reed Warbler,Acrocephalus arundinaceus,183,False
+eurwar2,River Warbler,Locustella fluviatilis,184,False
+eurcrm1,Eurasian Crag-Martin,Ptyonoprogne rupestris,185,False
+arcwar1,Arctic Warbler,Phylloscopus borealis,186,False
+barwar1,Barred Warbler,Sylvia nisoria,187,False
+wallcr1,Wallcreeper,Tichodroma muraria,188,False
+blueth,Bluethroat,Luscinia svecica,189,False
+whinch1,Whinchat,Saxicola rubetra,190,False
+stonec4,European Stonechat,Saxicola rubicola,191,False
+bohwax,Bohemian Waxwing,Bombycilla garrulus,192,False
+whwsno1,White-winged Snowfinch,Montifringilla nivalis,193,False
+eaywag1,Western Yellow Wagtail,Motacilla flava,194,False
+parcro2,Parrot Crossbill,Loxia pytyopsittacus,195,False
+citfin1,Citril Finch,Carduelis citrinella,196,False
+snobun,Snow Bunting,Plectrophenax nivalis,197,False
+reebun,Reed Bunting,Emberiza schoeniclus,198,False
