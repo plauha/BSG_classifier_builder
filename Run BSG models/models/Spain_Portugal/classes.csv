@@ -1,0 +1,96 @@
+species_code,common_name,scientific_name,class,noise
+nobird,No bird,No bird,0,True
+human,Human,Human,1,True
+mallar3,Mallard,Anas platyrhynchos,2,False
+comqua1,Common Quail,Coturnix coturnix,3,False
+relpar1,Red-legged Partridge,Alectoris rufa,4,False
+redjun,Red Junglefowl,Gallus gallus,5,False
+grefla3,Greater Flamingo,Phoenicopterus roseus,6,False
+litgre1,Little Grebe,Tachybaptus ruficollis,7,False
+cowpig1,Common Wood-Pigeon,Columba palumbus,8,False
+eutdov,European Turtle-Dove,Streptopelia turtur,9,False
+eucdov,Eurasian Collared-Dove,Streptopelia decaocto,10,False
+comcuc,Common Cuckoo,Cuculus canorus,11,False
+rennig1,Red-necked Nightjar,Caprimulgus ruficollis,12,False
+eurnig1,Eurasian Nightjar,Caprimulgus europaeus,13,False
+comswi,Common Swift,Apus apus,14,False
+palswi3,Pallid Swift,Apus pallidus,15,False
+commoo3,Eurasian Moorhen,Gallinula chloropus,16,False
+bkwsti,Black-winged Stilt,Himantopus himantopus,17,False
+yelgul1,Yellow-legged Gull,Larus michahellis,18,False
+lbbgul,Lesser Black-backed Gull,Larus fuscus,19,False
+gubter1,Gull-billed Tern,Gelochelidon nilotica,20,False
+euhbuz1,European Honey-buzzard,Pernis apivorus,21,False
+shteag1,Short-toed Snake-Eagle,Circaetus gallicus,22,False
+booeag1,Booted Eagle,Hieraaetus pennatus,23,False
+spaeag1,Spanish Eagle,Aquila adalberti,24,False
+blakit1,Black Kite,Milvus migrans,25,False
+combuz1,Common Buzzard,Buteo buteo,26,False
+brnowl,Barn Owl,Tyto alba,27,False
+eursco1,Eurasian Scops-Owl,Otus scops,28,False
+eueowl1,Eurasian Eagle-Owl,Bubo bubo,29,False
+litowl1,Little Owl,Athene noctua,30,False
+tawowl1,Tawny Owl,Strix aluco,31,False
+loeowl,Long-eared Owl,Asio otus,32,False
+hoopoe,Eurasian Hoopoe,Upupa epops,33,False
+comkin1,Common Kingfisher,Alcedo atthis,34,False
+eubeat1,European Bee-eater,Merops apiaster,35,False
+grswoo,Great Spotted Woodpecker,Dendrocopos major,36,False
+leswoo1,Lesser Spotted Woodpecker,Dryobates minor,37,False
+grnwoo3,Iberian Green Woodpecker,Picus sharpei,38,False
+eugori2,Eurasian Golden Oriole,Oriolus oriolus,39,False
+ibgshr1,Iberian Gray Shrike,Lanius meridionalis,40,False
+eurjay1,Eurasian Jay,Garrulus glandarius,41,False
+azwmag3,Iberian Magpie,Cyanopica cooki,42,False
+eurmag1,Eurasian Magpie,Pica pica,43,False
+carcro1,Carrion Crow,Corvus corone,44,False
+coatit2,Coal Tit,Periparus ater,45,False
+cretit2,Crested Tit,Lophophanes cristatus,46,False
+blutit,Eurasian Blue Tit,Cyanistes caeruleus,47,False
+gretit1,Great Tit,Parus major,48,False
+callar1,Calandra Lark,Melanocorypha calandra,49,False
+woolar1,Wood Lark,Lullula arborea,50,False
+skylar,Eurasian Skylark,Alauda arvensis,51,False
+thelar1,Thekla's Lark,Galerida theklae,52,False
+crelar2,Crested Lark,Galerida cristata,53,False
+zitcis1,Zitting Cisticola,Cisticola juncidis,54,False
+eurwar1,Eurasian Reed Warbler,Acrocephalus scirpaceus,55,False
+barswa,Barn Swallow,Hirundo rustica,56,False
+rerswa1,Red-rumped Swallow,Cecropis daurica,57,False
+cohmar1,Common House-Martin,Delichon urbicum,58,False
+webwar1,Western Bonelli's Warbler,Phylloscopus bonelli,59,False
+comchi1,Common Chiffchaff,Phylloscopus collybita,60,False
+lottit1,Long-tailed Tit,Aegithalos caudatus,61,False
+blackc1,Eurasian Blackcap,Sylvia atricapilla,62,False
+subwar1,Subalpine Warbler,Sylvia cantillans,63,False
+sarwar1,Sardinian Warbler,Sylvia melanocephala,64,False
+darwar1,Dartford Warbler,Sylvia undata,65,False
+firecr1,Common Firecrest,Regulus ignicapilla,66,False
+eurnut2,Eurasian Nuthatch,Sitta europaea,67,False
+shttre1,Short-toed Treecreeper,Certhia brachydactyla,68,False
+winwre4,Eurasian Wren,Troglodytes troglodytes,69,False
+eursta,European Starling,Sturnus vulgaris,70,False
+sposta1,Spotless Starling,Sturnus unicolor,71,False
+sonthr1,Song Thrush,Turdus philomelos,72,False
+redwin,Redwing,Turdus iliacus,73,False
+eurbla,Eurasian Blackbird,Turdus merula,74,False
+spofly1,Spotted Flycatcher,Muscicapa striata,75,False
+eurrob1,European Robin,Erithacus rubecula,76,False
+comnig1,Common Nightingale,Luscinia megarhynchos,77,False
+eupfly1,European Pied Flycatcher,Ficedula hypoleuca,78,False
+blared1,Black Redstart,Phoenicurus ochruros,79,False
+stonec4,European Stonechat,Saxicola rubicola,80,False
+dunnoc1,Dunnock,Prunella modularis,81,False
+houspa,House Sparrow,Passer domesticus,82,False
+rocpet1,Rock Sparrow,Petronia petronia,83,False
+meapip1,Meadow Pipit,Anthus pratensis,84,False
+comcha,Common Chaffinch,Fringilla coelebs,85,False
+hawfin,Hawfinch,Coccothraustes coccothraustes,86,False
+eurbul,Eurasian Bullfinch,Pyrrhula pyrrhula,87,False
+eurgre1,European Greenfinch,Chloris chloris,88,False
+eurlin1,Eurasian Linnet,Linaria cannabina,89,False
+eurgol,European Goldfinch,Carduelis carduelis,90,False
+eurser1,European Serin,Serinus serinus,91,False
+eursis,Eurasian Siskin,Spinus spinus,92,False
+corbun1,Corn Bunting,Emberiza calandra,93,False
+cirbun1,Cirl Bunting,Emberiza cirlus,94,False
