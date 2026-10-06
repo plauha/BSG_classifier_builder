@@ -5,5 +5,5 @@ Place xenocanto.py here
   pip install xeno-canto
   or by 
   git clone https://github.com/ntivirikin/xeno-canto-py
-  The only file required for operation is xenocanto.py.
+  The only file required for BSG pipeline is xenocanto.py.
 
